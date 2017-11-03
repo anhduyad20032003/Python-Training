@@ -4,6 +4,7 @@ first excersise, hello world
 
 cong hoa xa hoi chu nghia viet nam
 
+<<<<<<< HEAD
 doc lap tu do hanh phuc
 
 cu chuoi cham muoi
@@ -11,3 +12,6 @@ cu chuoi cham muoi
 sdfjoiewj  fsoiuewrj  fw eoirj ldcfwoiej sdf
 =======
 >>>>>>> parent of 202500a... them du lieu
+=======
+doc lap tu do hanh phuc
+>>>>>>> parent of 729874d... them dong du lieu
